@@ -1,0 +1,3 @@
+# grus
+
+grus is a high-performance, reliable container snapshot engine designed for seamless Kubernetes integration. It supports container checkpoint and restore operations, enabling state preservation across time for migration, disaster recovery, and debugging. Built for containerd compatibility, Grus integrates with K8s via the standard CRI.
